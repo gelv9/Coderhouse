@@ -1,0 +1,165 @@
+nombre_juguete,fabricante,valor_costo,valor_venta_promedio,cantidad_vendida,mes_mayores_ventas,edad_recomendada,tipo_juego,material,funcion_educativa,genero,tematica,codigo_producto,nombre_comercial
+Peluche Osito,ToyCo,5,15,200,Octubre,Preescolares,Juguetes de actividad física,Juguetes de tela,,Animales,12345,Cuddly Bear
+Coche de Carreras,Speedy Toys,8,20,150,Julio,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,23456,Race King
+Rompecabezas Espacial,PuzzleMaster,10,25,100,Enero,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,34567,Space Puzzle
+Muñeca Bailarina,Enchanting Dolls,6,18,180,Diciembre,Preescolares,Juegos de roles,Juguetes de tela,Estimula la expresión creativa y la coordinación motora fina,,45678,Dancing Doll
+Set de Construcción,Brick Builders,12,30,120,Agosto,Niños en edad escolar,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,56789,Builder Kit
+Balón de Fútbol,PlaySport,7,22,250,Marzo,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,67890,Soccer Ball
+Piano Musical,MelodyMakers,15,40,80,Septiembre,Preescolares,Juguetes electrónicos,Juguetes de madera,Desarrolla el interés por la música,,78901,Music Maker
+Avión de Control Remoto,SkyFlyers,20,50,70,Febrero,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Estimula el interés por la ciencia y la tecnología,,89012,Remote Flyer
+Muñeco de Peluche,SoftToys,9,25,150,Junio,Niños pequeños,Juguetes de roles,Juguetes de tela,Estimula la expresión creativa y la coordinación motora fina,,90123,Plushie Pal
+Dinosaurio de Juguete,DinoFun,11,28,100,Noviembre,Preescolares,Juguetes de roles,Juguetes de plástico,Desarrolla habilidades cognitivas y de resolución de problemas,,91234,Dino Friend
+Pelota de Tenis,SportyGear,6,18,200,Abril,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,92345,Tennis Ball
+Cocina de Juguete,KiddyCook,25,60,90,Mayo,Preescolares,Juegos de simulación,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,93456,Cooking Fun
+Cubo de Rubik,PuzzleMaster,8,20,150,Octubre,Niños en edad escolar,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,94567,Rubik's Cube
+Juego de Té,Enchanting Dolls,10,28,120,Febrero,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,95678,Tea Time
+Tractor de Juguete,FarmFun,15,35,100,Julio,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,96789,Farm Tractor
+Muñeca de Peluche,SoftToys,7,20,180,Enero,Niños pequeños,Juguetes de roles,Juguetes de tela,Estimula la expresión creativa y la coordinación motora fina,,97890,Plush Doll
+Rompecabezas de Animales,DinoFun,9,22,200,Septiembre,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,98901,Animal Puzzle
+Laptop Educativo,SmartToys,30,80,80,Marzo,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la ciencia y la tecnología,,99012,Smart Laptop
+Tren de Juguete,ChooChoo,18,45,70,Diciembre,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,00123,ChooChoo Train
+Patineta,SkateCo,20,50,150,Octubre,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,00234,Skater's Choice
+Bicicleta,WheelieBikes,40,100,60,Julio,Niños en edad escolar,Juguetes de actividad física,Juguetes de metal,,,00345,Cyclist's Dream
+Barco de Juguete,SeafarerToys,22,55,90,Junio,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,00456,Sea Explorer
+Juego de Construcción,Brick Builders,14,35,120,Abril,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,00567,Constructor Kit
+Guitarra de Juguete,MelodyMakers,18,45,100,Marzo,Preescolares,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la música,,00678,Rockstar Guitar
+Muñeca Bebé,Enchanting Dolls,12,30,130,Enero,Bebés,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,00789,Baby Doll
+Rompecabezas de Ciudades,PuzzleMaster,11,28,80,Noviembre,Niños en edad escolar,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,00890,City Explorer
+Cámara de Juguete,CaptureFun,25,60,70,Octubre,Preescolares,Juguetes electrónicos,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,00901,Capture Cam
+Casa de Muñecas,Enchanting Dolls,35,90,40,Septiembre,Niños en edad escolar,Juegos de roles,Juguetes de madera,Estimula la expresión creativa y la coordinación motora fina,,01012,Dollhouse Dream
+Balón de Baloncesto,PlaySport,8,25,180,Agosto,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,01123,Basketball Star
+Juego de Ajedrez,StrategicGames,20,50,100,Julio,Niños en edad escolar,Juegos de mesa,Juguetes de plástico,Fomenta el desarrollo cognitivo y las habilidades estratégicas,,01234,Chess Master
+Puzzle 3D,EduPuzzle,12,30,120,Junio,Niños en edad escolar,Juegos de construcción,Juguetes de cartón,Fomenta la creatividad y el pensamiento espacial,,01345,3D Challenge
+Helicóptero de Juguete,SkyFlyers,28,70,80,Mayo,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,01456,Helicopter Hero
+Xilófono de Juguete,MelodyMakers,15,35,150,Abril,Bebés,Juguetes electrónicos,Juguetes de madera,Fomenta el interés por la música,,01567,Music Xylo
+Cubos de Construcción,Brick Builders,10,25,200,Marzo,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,01678,Block Master
+Camión de Bomberos,RescueToys,25,60,90,Febrero,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,Estimula el interés por la ciencia y la tecnología,,01789,Fire Truck
+Muñeca Princesa,Enchanting Dolls,18,45,100,Enero,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,01890,Princess Pal
+Juego de Bolos,PlaySport,30,75,70,Octubre,Niños en edad escolar,Juegos de actividad física,Juguetes de plástico,,,01901,Bowling Champ
+Tambor de Juguete,MelodyMakers,22,55,80,Septiembre,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la música,,02012,Drum Beat
+Juego de Pesca,FishermanToys,18,45,100,Agosto,Preescolares,Juegos de simulación,Juguetes de plástico,Desarrolla habilidades cognitivas y de resolución de problemas,,02123,Fishing Fun
+Microscopio de Juguete,ScienceLab,35,90,60,Julio,Preescolares,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la ciencia y la tecnología,,02234,Science Explorer
+Avión de Papel,FlightFun,5,15,250,Junio,Niños en edad escolar,Juguetes de construcción,Juguetes de cartón,Fomenta la creatividad y el pensamiento espacial,,02345,Paper Pilot
+Juego de Doctor,MediKids,20,50,90,Mayo,Preescolares,Juegos de roles,Juguetes de plástico,Desarrolla habilidades cognitivas y de resolución de problemas,,02456,Doctor's Kit
+Caja de Herramientas,HandyTools,18,45,100,Abril,Preescolares,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,02567,Tool Master
+Rompecabezas de Naturaleza,PuzzleMaster,10,25,200,Marzo,Niños en edad escolar,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,02678,Nature Explorer
+Tablero de Dardos,PlaySport,30,75,70,Febrero,Niños en edad escolar,Juegos de actividad física,Juguetes de plástico,,,02789,Dart Champ
+Muñeco de Superhéroe,HeroToys,15,35,120,Enero,Preescolares,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,02890,Superhero Buddy
+Casco de Construcción,KiddyGear,8,20,180,Octubre,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,02901,Builder Helmet
+Cámara de Fotos de Juguete,PhotoFun,20,50,80,Septiembre,Niños pequeños,Juguetes electrónicos,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,03012,Photo Fun
+Puzzle de Disney,PuzzleMaster,12,30,100,Agosto,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,03123,Disney Magic
+Juego de Bolos de Mesa,TableTopGames,15,35,130,Julio,Niños en edad escolar,Juegos de mesa,Juguetes de plástico,Fomenta el desarrollo cognitivo y las habilidades estratégicas,,03234,Tabletop Bowl
+Mochila de Explorador,AdventureGear,25,60,90,Junio,Niños pequeños,Juguetes de actividad física,Juguetes de tela,,,03345,Explorer Pack
+Carro de Compras de Juguete,PlayShop,18,45,100,Mayo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,03456,Shopping Fun
+Herramientas de Juguete,KiddyTools,10,25,150,Abril,Niños pequeños,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,03567,Tool Set
+Puzzle de Arte,PuzzleMaster,15,35,120,Marzo,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,03678,Art Puzzle
+Microscopio de Niños,ScienceLab,30,75,80,Febrero,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la ciencia y la tecnología,,03789,Junior Scientist
+Camión de Basura,GreenClean,20,50,100,Enero,Niños pequeños,Juguetes de actividad física,Juguetes de plástico,Estimula el interés por la ciencia y la tecnología,,03890,Garbage Truck
+Cocina de Madera,WoodenWonders,40,100,60,Octubre,Niños pequeños,Juegos de simulación,Juguetes de madera,Estimula la expresión creativa y la coordinación motora fina,,03901,Wooden Kitchen
+Telescopio de Juguete,StarGazer,25,60,90,Septiembre,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Fomenta el interés por la ciencia y la tecnología,,04012,Stargazing Fun
+Juego de Mesa,BoardFun,15,35,130,Agosto,Niños en edad escolar,Juegos de mesa,Juguetes de plástico,Fomenta el desarrollo cognitivo y las habilidades estratégicas,,04123,Family Game Night
+Cubo de Rubik,PuzzleMaster,8,20,150,Octubre,Niños en edad escolar,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,94567,Rubik's Cube
+Juego de Té,Enchanting Dolls,10,28,120,Febrero,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula la expresión creativa y la coordinación motora fina,,95678,Tea Time
+Tractor de Juguete,FarmFun,15,35,100,Julio,Niños en edad escolar,Juguetes de actividad física,Juguetes de plástico,,,96789,Farm Tractor
+Muñeca de Peluche,SoftToys,7,20,180,Enero,Niños pequeños,Juguetes de roles,Juguetes de tela,Estimula la expresión creativa y la coordinación motora fina,,97890,Plush Doll
+Rompecabezas de Animales,DinoFun,9,22,200,Septiembre,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,98901,Animal Puzzle
+Lápices de Colores,ColorFun,5,15,200,Junio,Preescolares,Juegos de arte y manualidades,Juguetes de cartón,Estimula la creatividad y la coordinación motora fina,,,123456,Colorful Pencils
+Cubo Sensorial,TouchToys,10,25,150,Agosto,Bebés,Juguetes de estimulación temprana,Juguetes de tela,Estimula los sentidos y la exploración táctil,,,234567,Sensory Cube
+Pelota de Espuma,FoamPlay,8,20,180,Marzo,Bebés,Juguetes de actividad física,Juguetes de plástico,Estimula el desarrollo motor y la coordinación mano-ojo,,,345678,Foam Ball
+Set de Sellos,StampIt,12,30,120,Septiembre,Preescolares,Juegos de arte y manualidades,Juguetes de plástico,Desarrolla habilidades creativas y motoras finas,,,456789,Stamp Set
+Cubos de Apilamiento,StackIt,6,18,250,Julio,Niños pequeños,Juguetes de construcción,Juguetes de plástico,Fomenta la coordinación mano-ojo y la resolución de problemas,,,567890,Stacking Cubes
+Globo Terráqueo,GeoExplorer,20,50,100,Enero,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la geografía y la exploración del mundo,,,678901,Globe Explorer
+Dinosaurio de Peluche,SoftDinos,15,35,120,Octubre,Preescolares,Juguetes de roles,Juguetes de tela,Estimula el juego imaginativo y la interacción social,,,789012,Plush Dino
+Teclado Musical,MelodyKeys,25,60,90,Febrero,Niños en edad escolar,Juguetes electrónicos,Juguetes de plástico,Desarrolla el interés por la música y la coordinación mano-ojo,,,890123,Music Keyboard
+Set de Herramientas,HandyTools,18,45,100,Mayo,Niños pequeños,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el juego de simulación,,,901234,Tool Kit
+Kit de Ciencia,ScienceLab,30,75,80,Noviembre,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la ciencia y el pensamiento crítico,,,912345,Science Kit
+Puzzle de Animales,WildPuzzle,12,30,150,Abril,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,,234567,Animal Puzzle
+Set de Maquillaje,MakeupFun,15,35,120,Julio,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,345678,Makeup Set
+Teléfono de Juguete,PhonePlay,8,20,180,Diciembre,Bebés,Juguetes de simulación,Juguetes de plástico,Estimula la exploración sensorial y el juego de imitación,,,456789,Toy Phone
+Libro de Tela,SoftBook,10,25,130,Septiembre,Bebés,Juguetes educativos,Juguetes de tela,Desarrolla habilidades motoras finas y promueve el interés por la lectura,,,567890,Fabric Book
+Rompecabezas de Letras,ABC Puzzle,8,20,160,Mayo,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje del abecedario y habilidades cognitivas básicas,,,678901,Letter Puzzle
+Kit de Arte,ArtCraft,20,50,100,Febrero,Niños en edad escolar,Juegos de arte y manualidades,Juguetes de plástico,Estimula la creatividad y la expresión artística,,,789012,Art Kit
+Bolso de Juguetes,ToyBag,18,45,110,Abril,Niños pequeños,Juegos de roles,Juguetes de tela,Estimula el juego imaginativo y la organización,,,890123,Toy Bag
+Tren de Madera,WoodenTrain,25,60,90,Octubre,Niños pequeños,Juguetes de actividad física,Juguetes de madera,Fomenta el juego cooperativo y la coordinación,,,901234,Wooden Train
+Juego de Memoria,MemoryGame,10,25,140,Junio,Preescolares,Juegos de mesa,Juguetes de cartón,Desarrolla habilidades de memoria y concentración,,,912345,Memory Match
+Bloques Sensoriales,SensoryBlocks,15,35,120,Agosto,Bebés,Juguetes de construcción,Juguetes de plástico,Estimula la exploración táctil y la coordinación mano-ojo,,,123456,Sensory Blocks
+Set de Té,TeaPartyCo,12,30,130,Octubre,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la interacción social,,,234567,Tea Party Set
+Peluche de Elefante,SoftElephant,8,20,160,Julio,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,345678,Elephant Plush
+Kit de Pintura,PaintIt,18,45,100,Enero,Niños pequeños,Juegos de arte y manualidades,Juguetes de plástico,Estimula la creatividad y la coordinación mano-ojo,,,456789,Painting Kit
+Coche de Juguete,ToyCarsInc,10,25,140,Septiembre,Niños pequeños,Juguetes de actividad física,Juguetes de plástico,Fomenta el juego imaginativo y la coordinación,,,567890,Toy Car
+Telar de Cuentas,BeadCraft,15,35,110,Marzo,Preescolares,Juegos de arte y manualidades,Juguetes de plástico,Desarrolla habilidades motoras finas y la creatividad,,,678901,Bead Loom
+Puzzle de Granja,FarmPuzzle,12,30,120,Noviembre,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre la vida en la granja,,,789012,Farmyard Puzzle
+Set de Doctor,MedKit,20,50,90,Mayo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la comprensión del cuidado de la salud,,,890123,Doctor Set
+Mochila de Juguete,BackpackFun,18,45,100,Abril,Preescolares,Juegos de roles,Juguetes de tela,Estimula el juego imaginativo y la organización,,,901234,Toy Backpack
+Rompecabezas de Frutas,FruitPuzzle,8,20,160,Agosto,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre las frutas y habilidades cognitivas básicas,,,912345,Fruit Puzzle
+Kit de Costura,SewIt,15,35,110,Junio,Preescolares,Juegos de arte y manualidades,Juguetes de plástico,Desarrolla habilidades motoras finas y la creatividad,,,123456,Sewing Kit
+Peluche de Panda,SoftPanda,10,25,140,Octubre,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,234567,Panda Plush
+Bloques de Construcción,BuildIt,20,50,90,Febrero,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,,345678,Building Blocks
+Set de Cocina,MiniChef,25,60,80,Julio,Preescolares,Juegos de simulación,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,456789,Kitchen Set
+Cubo de Actividades,ActivityCube,15,35,110,Marzo,Bebés,Juguetes de estimulación temprana,Juguetes de plástico,Fomenta la exploración sensorial y el desarrollo motor,,,567890,Activity Cube
+Rompecabezas de Vehículos,VehiclePuzzle,12,30,120,Diciembre,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre vehículos y habilidades cognitivas básicas,,,678901,Vehicle Puzzle
+Kit de Dibujo,DrawIt,18,45,100,Enero,Niños pequeños,Juegos de arte y manualidades,Juguetes de plástico,Estimula la creatividad y la coordinación mano-ojo,,,789012,Drawing Kit
+Muñeca de Trapo,RagDollCo,10,25,140,Septiembre,Niños pequeños,Juguetes de roles,Juguetes de tela,Estimula el juego imaginativo y la interacción social,,,890123,Rag Doll
+Juego de Aprendizaje,LearningGame,20,50,90,Mayo,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el aprendizaje interactivo y las habilidades cognitivas,,,901234,Learning Set
+Rompecabezas de Animales del Zoológico,ZooPuzzle,8,20,160,Abril,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre animales y habilidades cognitivas básicas,,,912345,Zoo Puzzle
+Set de Herramientas de Jardinería,GardenTools,15,35,110,Junio,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y el aprendizaje sobre la naturaleza,,,123456,Gardening Kit
+Set de Trenes,TrainSetCo,25,60,80,Agosto,Niños pequeños,Juguetes de simulación,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,234567,Train Set
+Kit de Magia,MagicTricks,20,50,90,Junio,Niños en edad escolar,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y la coordinación mano-ojo,,,345678,Magic Kit
+Puzzle de Mapa del Mundo,WorldMapPuzzle,12,30,120,Diciembre,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre geografía y habilidades cognitivas básicas,,,456789,World Map Puzzle
+Juego de Dardos,DartBoardCo,30,75,70,Abril,Niños en edad escolar,Juegos de mesa,Juguetes de plástico,Fomenta la coordinación mano-ojo y las habilidades estratégicas,,,567890,Dart Board
+Libro de Cuentos,StoryBookCo,10,25,140,Septiembre,Preescolares,Juguetes educativos,Juguetes de cartón,Estimula el interés por la lectura y el desarrollo del lenguaje,,,678901,Story Book
+Peluche de León,SoftLion,15,35,110,Febrero,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,789012,Lion Plush
+Juego de Memoria,MemoryGame,15,35,100,Octubre,Preescolares,Juegos de mesa,Juguetes de plástico,Desarrolla habilidades de memoria y concentración,,,890123,Memory Game
+Set de Herramientas de Juguete,ToolSet,18,45,95,Mayo,Niños pequeños,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el juego de simulación,,,901234,Tool Set
+Set de Jardinería,GardeningSet,20,50,85,Julio,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y el aprendizaje sobre la naturaleza,,,912345,Gardening Set
+Tren de Juguete,ToyTrainInc,25,60,80,Noviembre,Niños pequeños,Juguetes de actividad física,Juguetes de plástico,Fomenta el juego cooperativo y la coordinación,,,123456,Toy Train
+Puzzle de Personajes,CharacterPuzzle,12,30,110,Enero,Preescolares,Juegos de construcción,Juguetes de cartón,Desarrolla habilidades cognitivas y de resolución de problemas,,,234567,Character Puzzle
+Set de Maquillaje de Princesa,PrincessMakeup,15,35,100,Marzo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,345678,Princess Makeup Kit
+Set de Bloques de Madera,WoodenBlocks,20,50,90,Agosto,Preescolares,Juegos de construcción,Juguetes de madera,Fomenta la creatividad y el pensamiento espacial,,,456789,Wooden Blocks Set
+Peluche de Oso,SoftBear,10,25,120,Junio,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,567890,Bear Plush
+Kit de Ciencia del Espacio,SpaceExplorerKit,30,75,70,Octubre,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la ciencia y la exploración del espacio,,,678901,Space Explorer Kit
+Juego de Cocina,PlayKitchen,25,60,80,Diciembre,Niños pequeños,Juegos de simulación,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,789012,Play Kitchen
+Set de Ladrillos,BrickSet,18,45,95,Febrero,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,,890123,Brick Building Set
+Libro de Canciones,SingAlongBook,12,30,110,Septiembre,Preescolares,Juguetes educativos,Juguetes de cartón,Fomenta el interés por la música y el desarrollo del lenguaje,,,901234,Sing Along Book
+Juego de Teatro,PuppetShow,20,50,85,Mayo,Niños pequeños,Juegos de roles,Juguetes de tela,Estimula el juego imaginativo y la expresión creativa,,,912345,Puppet Show
+Peluche de Tigre,SoftTiger,15,35,100,Julio,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,123456,Tiger Plush
+Kit de Herramientas de Construcción,ConstructionKitCo,25,60,80,Noviembre,Niños pequeños,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el juego de simulación,,,234567,Construction Tool Set
+Peluche de Conejo,SoftRabbit,10,25,120,Junio,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,345678,Rabbit Plush
+Set de Médico,DoctorSetCo,15,35,100,Septiembre,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la comprensión del cuidado de la salud,,,456789,Doctor Play Set
+Puzzle de Dinosaurios,DinoPuzzle,12,30,110,Enero,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre dinosaurios y habilidades cognitivas básicas,,,567890,Dinosaur Puzzle
+Juego de Sillas Musicales,MusicalChairs,30,75,70,Abril,Niños en edad escolar,Juegos de mesa,Juguetes de plástico,Fomenta la coordinación mano-ojo y el ritmo,,,678901,Musical Chairs
+Libro de Cuentos Interactivo,InteractiveBookCo,10,25,140,Agosto,Preescolares,Juguetes educativos,Juguetes de cartón,Estimula el interés por la lectura y el desarrollo del lenguaje,,,789012,Interactive Storybook
+Peluche de Jirafa,SoftGiraffe,15,35,110,Febrero,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,890123,Giraffe Plush
+Kit de Arte en Miniatura,MiniArtKit,18,45,95,Mayo,Niños pequeños,Juegos de arte y manualidades,Juguetes de plástico,Estimula la creatividad y la coordinación mano-ojo,,,901234,Miniature Art Set
+Rompecabezas de Espacio,SpacePuzzle,20,50,85,Julio,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre el espacio y habilidades cognitivas básicas,,,912345,Space Puzzle
+Set de Té de Porcelana,PorcelainTeaSet,15,35,100,Marzo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,123456,Porcelain Tea Set
+Peluche de Perro,SoftDog,10,25,120,Octubre,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,234567,Dog Plush
+Set de Bloques de Construcción,BuildingBlockSet,20,50,90,Diciembre,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,,345678,Building Block Set
+Juego de Imitación de Comida,FoodPlaySet,18,45,95,Febrero,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la exploración culinaria,,,456789,Food Play Set
+Peluche de Gato,SoftCat,15,35,110,Junio,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,567890,Cat Plush
+Set de Ciencia,ScienceSetCo,25,60,80,Noviembre,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la ciencia y el pensamiento crítico,,,678901,Science Kit
+Juego de Té de Plástico,PlasticTeaSet,20,50,85,Mayo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,789012,Plastic Tea Set
+Puzzle de Animales Marinos,SeaLifePuzzle,15,35,100,Septiembre,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre la vida marina y habilidades cognitivas básicas,,,890123,Sea Life Puzzle
+Set de Limpieza de Juguete,CleaningSet,18,45,95,Marzo,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la responsabilidad doméstica,,,901234,Cleaning Play Set
+Peluche de Mono,SoftMonkey,10,25,120,Octubre,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,912345,Monkey Plush
+Set de Herramientas de Carpintería,CarpentryTools,25,60,80,Febrero,Preescolares,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el aprendizaje práctico,,,123456,Carpentry Tool Set
+Kit de Música,MusicalKit,20,50,85,Diciembre,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Estimula el interés por la música y la coordinación mano-ojo,,,234567,Musical Instrument Kit
+Set de Té de Plástico,PlasticTeaSet,15,35,100,Junio,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,345678,Plastic Tea Set
+Peluche de Hipopótamo,SoftHippo,10,25,120,Noviembre,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,456789,Hippo Plush
+Set de Herramientas de Jardinería,GardenTools,25,60,80,Julio,Preescolares,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y el aprendizaje sobre la naturaleza,,,567890,Gardening Tool Set
+Puzzle de Dinosaurios, DinoPuzzle,15,35,100,Marzo,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre los dinosaurios y las habilidades cognitivas básicas,,,678901,Dinosaur Puzzle
+Set de Té de Plástico,PlasticTeaSet,20,50,85,Septiembre,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,789012,Plastic Tea Set
+Peluche de Panda,SoftPanda,15,35,110,Abril,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,890123,Panda Plush
+Set de Ciencia del Espacio,SpaceExplorerKit,25,60,80,Agosto,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la ciencia y la exploración del espacio,,,901234,Space Explorer Kit
+Juego de Té de Porcelana,PorcelainTeaSet,20,50,85,Febrero,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,912345,Porcelain Tea Set
+Kit de Magia,MagicKit,18,45,95,Julio,Niños en edad escolar,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y la coordinación mano-ojo,,,123456,Magic Kit
+Set de Construcción,BuildingSet,25,60,80,Octubre,Preescolares,Juegos de construcción,Juguetes de plástico,Fomenta la creatividad y el pensamiento espacial,,,234567,Building Set
+Peluche de León,SoftLion,15,35,110,Marzo,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,345678,Lion Plush
+Set de Herramientas de Juguete,ToolSet,20,50,85,Junio,Niños pequeños,Juegos de roles,Juguetes de plástico,Fomenta la creatividad y el juego de simulación,,,456789,Tool Set
+Puzzle de Animales,AnimalPuzzle,12,30,100,Noviembre,Preescolares,Juegos de construcción,Juguetes de cartón,Fomenta el aprendizaje sobre los animales y habilidades cognitivas básicas,,,567890,Animal Puzzle
+Juego de Cocina,PlayKitchen,25,60,80,Abril,Niños pequeños,Juegos de simulación,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,678901,Play Kitchen
+Libro de Cuentos,StoryBook,10,25,120,Septiembre,Preescolares,Juguetes educativos,Juguetes de cartón,Estimula el interés por la lectura y el desarrollo del lenguaje,,,789012,Story Book
+Peluche de Tigre,SoftTiger,15,35,110,Febrero,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,890123,Tiger Plush
+Set de Ciencia,ScienceSet,20,50,85,Julio,Niños en edad escolar,Juguetes educativos,Juguetes de plástico,Fomenta el interés por la ciencia y el pensamiento crítico,,,901234,Science Kit
+Juego de Té de Plástico,PlasticTeaSet,15,35,100,Marzo,Niños pequeños,Juegos de roles,Juguetes de plástico,Estimula el juego imaginativo y la coordinación mano-ojo,,,912345,Plastic Tea Set
+Peluche de Mono,SoftMonkey,10,25,120,Octubre,Bebés,Juguetes de actividad física,Juguetes de tela,Ofrece consuelo y estimula los sentidos,,,123456,Monkey Plush
